@@ -1,10 +1,12 @@
 package CardDeck;
 
 import java.util.ArrayList;
+import java.util.Random;
 
 public class CardDeck {
 
     private ArrayList<Card> cards;
+    private Random random;
 
     public CardDeck() {
         cards = new ArrayList<>() {{
@@ -64,9 +66,16 @@ public class CardDeck {
             add(new Card("Queen of Spades", 10));
             add(new Card("King of Spades", 10));
         }};
+
+        random = new Random();
     }
 
-    public Card drawCard() {
-        return null;
+    public Card drawCard() throws Exception {
+        if (cards.size() > 0) {
+            int cardI = random.nextInt(cards.size());
+            Card card = cards.get(cardI);
+            cards.remove(cardI);
+            return card;
+        } else throw new Exception("Card deck is empty.");
     }
 }
