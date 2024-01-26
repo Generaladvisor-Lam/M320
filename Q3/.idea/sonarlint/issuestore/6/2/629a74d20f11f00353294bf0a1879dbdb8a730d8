@@ -1,0 +1,22 @@
+
+7
+java:S1220""Move this file to a named package.8óÜ‰àĞ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‡Ì™àĞ1
+L	java:S106"+Replace this use of System.out by a logger.(Ã†Ñªúÿÿÿÿ8ˆÌ™àĞ1
+G	java:S106"+Replace this use of System.out by a logger.(•“¹±8‰Ì™àĞ1
+L	java:S106"+Replace this use of System.out by a logger.(Øñ–‚úÿÿÿÿ8ŠÌ™àĞ1
+G	java:S106"+Replace this use of System.out by a logger.(™¬Ç•8–Ì™àĞ1
+G	java:S106"+Replace this use of System.out by a logger.(•éõ«8˜Ì™àĞ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8œÌ™àĞ1
+L	java:S106,"+Replace this use of System.out by a logger.(Á­Ãşÿÿÿÿ8 Ì™àĞ1
+L	java:S106/"+Replace this use of System.out by a logger.(ˆ²ˆªÿÿÿÿÿ8¢Ì™àĞ1
+L	java:S1060"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8£Ì™àĞ1
+P
+java:S32527"3Use static access with "java.util.Map" for "Entry".(“€—î8ÖûšàĞ1
+L	java:S1068"+Replace this use of System.out by a logger.(Ä×ªáşÿÿÿÿ8¦Ì™àĞ1
+L	java:S106="+Replace this use of System.out by a logger.(€âùÿÿÿÿ8©Ì™àĞ1
+G	java:S106B"+Replace this use of System.out by a logger.(—è½ç8ªÌ™àĞ1
+G	java:S106D"+Replace this use of System.out by a logger.(Ùåí¸8óõÛáĞ1
+G	java:S106I"+Replace this use of System.out by a logger.(Òú«8Ş“ÜáĞ1
+G	java:S106N"+Replace this use of System.out by a logger.(Û“—Š8³İáĞ1
+L	java:S106P"+Replace this use of System.out by a logger.(£ÊæÊøÿÿÿÿ8ÖçİáĞ1

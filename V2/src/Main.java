@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Mannschaft mannschaft = new Mannschaft();
+        mannschaft.trainAngreifer((short)20);
+        mannschaft.printSpieler();
     }
 }

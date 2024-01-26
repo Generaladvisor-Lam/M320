@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+B
+java:S3599",Use another way to initialize this instance.(ÈÖ²Á
+o
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÈÖ²Á
+^
+java:S1612%"HReplace this lambda with method reference 'Angreifer.class::isInstance'.(ƒâè¬
+Z
+java:S1612*"?Replace this lambda with method reference 'Spieler::zeigeName'.(¥¦±èûÿÿÿÿ
