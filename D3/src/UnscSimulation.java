@@ -41,7 +41,6 @@ public class UnscSimulation {
         for (StateRepresentative state : states) {
             try {
                 if (!state.vote()) {
-                    vetoed = true;
                     System.out.println(state.getName() + " voted against the resolution.");
                 } else {
                     System.out.println(state.getName() + " voted in favor of the resolution.");
@@ -52,6 +51,8 @@ public class UnscSimulation {
                 System.out.println(state.getName() + " vetoed the resolution.");
             }
         }
+
+        System.out.println("\n" + inFavor + " nations voted in favor.");
 
         if (vetoed) {
             System.out.println("\nThe resolution was vetoed.");
