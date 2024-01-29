@@ -1,0 +1,17 @@
+
+7
+java:S1220""Move this file to a named package.8öÛÑ¢Õ1
+I
+java:S3599
+",Use another way to initialize this instance.(¾õÄ­8—ÜÑ¢Õ1
+v
+java:S1171
+"YMove the contents of this initializer to a standard constructor or to field initializers.(¾õÄ­8 ÜÑ¢Õ1
+G	java:S106!"+Replace this use of System.out by a logger.(Ò®¡ý8°ÜÑ¢Õ1
+L	java:S106$"+Replace this use of System.out by a logger.( ± –þÿÿÿÿ8´ÜÑ¢Õ1
+G	java:S106-"+Replace this use of System.out by a logger.(ôÚî™8¶ÜÑ¢Õ1
+G	java:S106/"+Replace this use of System.out by a logger.(þ¬øó8¶ÜÑ¢Õ1
+G	java:S1064"+Replace this use of System.out by a logger.(¶‹óÚ8¶ÜÑ¢Õ1
+L	java:S1069"+Replace this use of System.out by a logger.(ô™Úèþÿÿÿÿ8¶ÜÑ¢Õ1
+L	java:S106;"+Replace this use of System.out by a logger.(ÍÖù³þÿÿÿÿ8¶ÜÑ¢Õ1
+L	java:S106="+Replace this use of System.out by a logger.(ÔÉÓ¤üÿÿÿÿ8Á€Ò¢Õ1
